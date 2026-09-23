@@ -1,5 +1,5 @@
-# https://github.com/FrizzleM/SideInstaller/releases/latest/download/SideInstaller.ipa
-#
+# SideInstaller — unsigned IPA source
+# 
 # By default the "sign-sideinstaller" workflow signs the .ipa asset attached to
 # this repo's LATEST RELEASE (latest prerelease when run on the beta channel),
 # so cutting a new release is all that's needed to publish a new build.
@@ -8,3 +8,4 @@
 # first non-comment line below. Editing this line also re-triggers the workflow.
 # Leave it blank to keep tracking the latest release. Override for a one-off run
 # with the UNSIGNED_IPA_URL env var.
+https://github.com/FrizzleM/SideInstaller/releases/latest/download/SideInstaller.ipa
