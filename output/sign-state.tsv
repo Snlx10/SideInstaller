@@ -7,4 +7,3 @@ ipa_size	9269862
 output_base_url	https://raw.githubusercontent.com/Snlx10/SideInstaller/main/output
 inputs_sha256	448e4579241719660ef7ff30fec0adc3dc1eb2c1ab6ccca63cd8e851543181fa
 cert	HSBC-Bank-plc	D45C911EC45A3D7DFAA026FF45583E594CF0B8CD	2028-04-29	revoked
-cert	MyCert	0C0C496B68A7C7CF12A93D101C4E6FD8B3DF2C16	2027-05-30	revoked
