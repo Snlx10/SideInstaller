@@ -1,4 +1,4 @@
-# SideInstaller — unsigned IPA source
+# https://github.com/FrizzleM/SideInstaller/releases/latest/download/SideInstaller.ipa
 #
 # By default the "sign-sideinstaller" workflow signs the .ipa asset attached to
 # this repo's LATEST RELEASE (latest prerelease when run on the beta channel),
