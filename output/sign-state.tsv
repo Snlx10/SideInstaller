@@ -3,14 +3,13 @@
 # is skipped when this file would come out identical. Delete to force.
 channel	stable
 ipa_url	https://github.com/FrizzleM/SideInstaller/releases/latest/download/SideInstaller.ipa
-ipa_size	9208665
+ipa_size	10201016
 output_base_url	https://raw.githubusercontent.com/Snlx10/SideInstaller/main/output
 inputs_sha256	448e4579241719660ef7ff30fec0adc3dc1eb2c1ab6ccca63cd8e851543181fa
 cert	BOC-International-China-Limited-qi-ye-weixin-app-id-huiyi-kuozhan	7E869FF0566ABD14D4D134191EE9D95DA21EC905	2026-11-06	revoked
 cert	BOC-International-China-Limited-qi-ye-weixin-app-id-kuozhan	7E869FF0566ABD14D4D134191EE9D95DA21EC905	2026-11-06	revoked
 cert	BOC-International-China-Limited-qi-ye-weixin-app-id-tuisong-kuozhan	7E869FF0566ABD14D4D134191EE9D95DA21EC905	2026-11-06	revoked
 cert	BOC-International-China-Limited-qi-ye-weixin-zhu-app-id	7E869FF0566ABD14D4D134191EE9D95DA21EC905	2026-11-06	revoked
-cert	Beihang-University-OA	E6A320CFFAEEC58AF00923694A1FC5409E64F20F	2026-12-03	revoked
 cert	Beihang-University-bhpanshare	E6A320CFFAEEC58AF00923694A1FC5409E64F20F	2026-12-03	revoked
 cert	Beihang-University-buaawxworklocalNOTI	E6A320CFFAEEC58AF00923694A1FC5409E64F20F	2026-12-03	revoked
 cert	CENTRAL-POWER-INFORMATION-TECHNOLOGY-COMPANY-CENTRAL-POWER-CORPORATION-com.cpc.it.thinghiemdien	C482649E7CD9FBB174DA0045F1CD5C3686D5E84C	2028-11-02	revoked
@@ -31,11 +30,11 @@ cert	NAVECO-Ltd-XmS4CV	F79ED2A626C1740FD0343700D514AD513F8DAFB1	2028-10-10	revok
 cert	National-Oilwell-Varco-Inc-Carbon-LAM	20C2DE15CFFB5373DCBE44F59229D623B6FF03C1	2029-01-25	revoked
 cert	National-Oilwell-Varco-Inc-WB-Carbon	20C2DE15CFFB5373DCBE44F59229D623B6FF03C1	2029-01-25	revoked
 cert	PowerChina-International-Group-Limited-DoaTYw	06C1A46DACAA1CE46F8B6D9AA215D76630CC74C7	2028-10-21	revoked
-cert	PowerChina-International-Group-Limited-HRU79V	06C1A46DACAA1CE46F8B6D9AA215D76630CC74C7	2028-10-21	revoked
-cert	PowerChina-International-Group-Limited-iWaMrs	06C1A46DACAA1CE46F8B6D9AA215D76630CC74C7	2028-10-21	revoked
 cert	PowerChina-International-Group-Limited-j3krPY	06C1A46DACAA1CE46F8B6D9AA215D76630CC74C7	2028-10-21	revoked
 cert	PowerChina-International-Group-Limited-nj61nO	06C1A46DACAA1CE46F8B6D9AA215D76630CC74C7	2028-10-21	revoked
 cert	Qingdao-Rural-Commercial-Bank-Co.-Ltd	27413E49E9017DED9898F07771B057052F33D0DD	2028-11-14	revoked
+cert	RAKUTEN-SECURITIES-INC.-iSpeed-WidgetApp-Dev	7F96846A01E1A2F89FA8FCB570D9C26F36BBD899	2028-11-04	revoked
+cert	RAKUTEN-SECURITIES-INC.-shisankeisei-Pushnotification	7F96846A01E1A2F89FA8FCB570D9C26F36BBD899	2028-11-04	revoked
 cert	VINWASH-COMPANY-LIMITED	C0A5093A8EF7EDB8FFFC6E08956559A36CC52674	2028-12-01	revoked
 cert	Vietnam-Electricity	9AE016E55AF70122F4A83AC9186C2750AB202F41	2028-12-09	revoked
 cert	XL-AXIATA-PT-TBK	DAE4476E22160B0BA19D1B406E8B82D99BC00E00	2029-02-17	revoked
