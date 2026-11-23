@@ -3,11 +3,12 @@
 # is skipped when this file would come out identical. Delete to force.
 channel	stable
 ipa_url	https://github.com/FrizzleM/SideInstaller/releases/latest/download/SideInstaller.ipa
-ipa_size	10770716
+ipa_size	10958767
 output_base_url	https://raw.githubusercontent.com/Snlx10/SideInstaller/main/output
 inputs_sha256	448e4579241719660ef7ff30fec0adc3dc1eb2c1ab6ccca63cd8e851543181fa
 cert	Beihang-University-bhpanshare	E6A320CFFAEEC58AF00923694A1FC5409E64F20F	2026-12-03	revoked
 cert	Beihang-University-buaawxworklocalNOTI	E6A320CFFAEEC58AF00923694A1FC5409E64F20F	2026-12-03	revoked
+cert	Chengdu-Railway-Bureau	0DE5549C67657D3F50E52B6796FD3A9F363397E9	2027-11-01	revoked
 cert	China-Telecom-Corporation-Limited-XC-com-ctq-qmc-yiban-inde	34591EF5246C536DE31B53F6B542F2A451B030AD	2029-02-23	revoked
 cert	China-Telecom-Corporation-Limited-XC-com-ctq-qmc-yiban-p	34591EF5246C536DE31B53F6B542F2A451B030AD	2029-02-23	revoked
 cert	China-Telecom-Corporation-Limited-XC-com-ctq-qmc-yiban-product	34591EF5246C536DE31B53F6B542F2A451B030AD	2029-02-23	revoked
@@ -18,11 +19,8 @@ cert	Jiangsu-Simcere-Pharmaceutical-Co.-Ltd-worktwo	121FAB5BFCF826AD1FCE426D8BEF
 cert	Moving-Increasingly-Interconnected-Technology-Co.-Ltd-com.oa11	7BB04D6421B72EB025C31FE10FB1594B0CFF7E73	2029-06-12	revoked
 cert	Moving-Increasingly-Interconnected-Technology-Co.-Ltd-comoaddw	7BB04D6421B72EB025C31FE10FB1594B0CFF7E73	2029-06-12	revoked
 cert	NAVECO-Ltd-8OO2dj	F79ED2A626C1740FD0343700D514AD513F8DAFB1	2028-10-10	revoked
-cert	NAVECO-Ltd-XmS4CV	F79ED2A626C1740FD0343700D514AD513F8DAFB1	2028-10-10	revoked
 cert	National-Oilwell-Varco-Inc-Carbon-LAM	20C2DE15CFFB5373DCBE44F59229D623B6FF03C1	2029-01-25	revoked
 cert	National-Oilwell-Varco-Inc-WB-Carbon	20C2DE15CFFB5373DCBE44F59229D623B6FF03C1	2029-01-25	revoked
-cert	PowerChina-International-Group-Limited-DoaTYw	06C1A46DACAA1CE46F8B6D9AA215D76630CC74C7	2028-10-21	revoked
-cert	PowerChina-International-Group-Limited-nj61nO	06C1A46DACAA1CE46F8B6D9AA215D76630CC74C7	2028-10-21	revoked
 cert	RAKUTEN-SECURITIES-INC.-shisankeisei-Pushnotification	7F96846A01E1A2F89FA8FCB570D9C26F36BBD899	2028-11-04	revoked
 cert	VINWASH-COMPANY-LIMITED	C0A5093A8EF7EDB8FFFC6E08956559A36CC52674	2028-12-01	revoked
 cert	Viet-Nam-Rubber-Group-Limited-XC-iOS-demo3	F1ADB01B2CC94A68D56C65530A4BC19C43030B4D	2029-01-24	revoked
